@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://media4.giphy.com/media/oy3pwvu2WbY22fOWbz/giphy.gif"/><br/><br/>
+<img src="https://media4.giphy.com/media/oy3pwvu2WbY22fOWbz/giphy.gif" height="250" width="250"/><br/><br/>
     <p align="center">
         <em>
             Oi meu nome é Gustavo, Sou Desenvolverdor Java Web Full Stack, com conhecimentos
